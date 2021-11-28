@@ -1,5 +1,5 @@
 # nodebb-backup
-A simple backup script based on the steps described in https://docs.nodebb.org/vi/latest/upgrading/
+A simple backup script based on the steps described in https://docs.nodebb.org/configuring/upgrade/
 
 # Install
 
